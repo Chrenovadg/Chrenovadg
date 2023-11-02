@@ -1,4 +1,9 @@
-### Hi there 👋
+### ¡HOLA! 
+## ⟶ desde 2013 recorro el maravilloso camino de ser Diseñadora Gráfica y hace 2 años tomé el rumbo de codear para destacarme como React Frontend Developer
+
+- Encariñada con la idea de generar soluciónes gráficas y de usabilidad en Web y Apps. 
+- Amante de la tecnología, y los VJ. 
+
 
 <!--
 **Chrenovadg/Chrenovadg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
