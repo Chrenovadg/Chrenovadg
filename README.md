@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrenovadg&label=Profile%20views&color=0e75b6&style=flat" alt="chrenovadg" /> </p>
   <h1 align="center">¡HOLA! ⟶ Soy Luana Przygrodzki.</h1>
   <h3 align="center">Amante de la tecnología, codear, del Arte y los VJ.</h3>
- <a href="chrenova.vercel.app"> Portfolio </a>
+ <a href="https://www.chrenova.vercel.app/"> Portfolio </a>
 
 <h3 align="left">Teck Stack:</h3>
 <p align="left"> 
