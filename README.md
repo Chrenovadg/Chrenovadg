@@ -1,7 +1,8 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrenovadg&label=Profile%20views&color=0e75b6&style=flat" alt="chrenovadg" /> </p>
-  <h1 align="center">¡HOLA! ⟶ Soy Luana Przygrodzki.</h1> <a href="https://www.chrenova.vercel.app/"> Portfolio </a>
+  <h1 align="center">¡HOLA! ⟶ Soy Luana Przygrodzki.</h1>
   <h3 align="center">Amante de la tecnología, codear, del Arte y los VJ.</h3>
+  <h4><a href="https://www.chrenova.vercel.app/"> Portfolio </a></h4>
  
 
 <h3 align="left">Teck Stack:</h3>
